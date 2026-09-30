@@ -36,7 +36,7 @@ export const CATEGORIES: Category[] = [
       "Collares con turquesa, lapislázuli, amatista, ágata y coral. Nos encanta mezclar colores: combínalos entre sí o úsalos solos para darle un toque especial a tu outfit.",
     title: "Collares de piedras naturales en Guadalajara | Blanca Aguayo",
     description:
-      "Collares con turquesa, lapislázuli, amatista, ágata y coral. Joyería de diseño en Providencia, Guadalajara. Consultálos por WhatsApp.",
+      "Collares con turquesa, lapislázuli, amatista, ágata y coral. Joyería de diseño en Providencia, Guadalajara. Consúltalos por WhatsApp.",
     waMessage:
       "Hola Blanca Aguayo, me interesan sus collares de piedras naturales. ¿Qué tienen disponible y cuál es su precio?",
     typeLabel: "Piedras naturales",
